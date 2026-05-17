@@ -68,15 +68,7 @@ The dataset contains:
 
 ---
 
-# 🔗 Dataset Link
 
-[Download Dataset](https://github.com/your-username/Global-Air-Pollution-Dashboard/tree/main/Dataset)
-
----
-
-# 🔗 Dashboard File Link
-
-[Open Power BI Dashboard](https://github.com/your-username/Global-Air-Pollution-Dashboard/blob/main/Dashboard.pbix)
 
 ---
 
@@ -87,18 +79,6 @@ The dataset contains:
 - Identify unhealthy regions
 - Provide interactive filtering options
 - Create an easy-to-understand visual dashboard
-
----
-
-# 📷 Dashboard Preview
-
-<p align="center">
- [ <img src="dashboard.png" alt="Global Air Pollution Dashboard" width="100%">]
-  (https://github.com/Sundharamoorthi0105/Global-Air-Pollution-Dashboard/blob/main/Dashboard.pbix)
-</p>
-
----
-
 # 🚀 How to Use
 
 1. Download the dataset
