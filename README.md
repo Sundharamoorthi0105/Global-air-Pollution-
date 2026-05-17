@@ -93,7 +93,8 @@ The dataset contains:
 # 📷 Dashboard Preview
 
 <p align="center">
-  <img src="dashboard.png" alt="Global Air Pollution Dashboard" width="100%">
+ [ <img src="dashboard.png" alt="Global Air Pollution Dashboard" width="100%">]
+  (https://github.com/Sundharamoorthi0105/Global-Air-Pollution-Dashboard/blob/main/Dashboard.pbix)
 </p>
 
 ---
